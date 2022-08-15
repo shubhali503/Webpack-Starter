@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":";;;AAAA;EACI,sBAAsB;;AAG1B;EACI,iBAAiB","sources":["webpack:///./sass/styles.scss"],"sourcesContent":["body{\r\n    background-color: aqua;\r\n}\r\n\r\nh1{\r\n    color: lightcoral;\r\n}"],"names":[],"sourceRoot":""}
